@@ -19,5 +19,8 @@
                 "qunit-reporter-junit.js"
             ]
         }
+    },
+    "require": {
+	"components/qunit": "*"
     }
 }
