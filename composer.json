@@ -1,0 +1,23 @@
+{
+    "name": "components/qunit-reporter-junit",
+    "homepage": "http://qunitjs.com",
+    "description": "junit xml output for qunit",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/jquery/qunit/issues",
+        "source": "https://github.com/jquery/qunit"
+    },
+    "authors": [
+        {
+            "name": "jQuery Foundation and other contributors",
+            "homepage": "https://github.com/jquery/qunit/blob/master/AUTHORS.txt"
+        }
+    ],
+    "extra": {
+        "component": {
+            "scripts": [
+                "qunit-reporter-junit.js"
+            ]
+        }
+    }
+}
